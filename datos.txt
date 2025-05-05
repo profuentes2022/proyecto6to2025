@@ -3,14 +3,14 @@ eadsfadsf
 
 asdfñlkajsdñlkfjasdf
 
-
+nico
 
 julian Orlando barillas
 
 cuellar
-Eddy
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -19,3 +19,8 @@ Jose
 pedro pica piedra 
 >>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
 >>>>>>> 286b56b4985fef8e1bd15bc4e2cff0293076e222
+=======
+pedro navarro de leon
+=======
+Eddy
+>>>>>>> a392f357c3768eb1c86a69a5efd1289f3561a1c6
