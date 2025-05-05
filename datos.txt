@@ -6,7 +6,15 @@ asdfñlkajsdñlkfjasdf
 
 
 
-juan barillas
+julian Orlando barillas
 
 cuellar
+<<<<<<< HEAD
 juan pablo apen
+=======
+<<<<<<< HEAD
+
+pedro navarro de leon
+=======
+Eddy
+>>>>>>> a392f357c3768eb1c86a69a5efd1289f3561a1c6
