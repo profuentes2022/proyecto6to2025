@@ -6,9 +6,18 @@ asdfñlkajsdñlkfjasdf
 
 
 
-julian barillas
+julian Orlando barillas
 
 cuellar
 Eddy
+<<<<<<< HEAD
 
+
+=======
+<<<<<<< HEAD
+Jose 
+=======
+pedro pica piedra 
+>>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
+>>>>>>> 286b56b4985fef8e1bd15bc4e2cff0293076e222
 nicolas
