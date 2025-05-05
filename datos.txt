@@ -6,8 +6,12 @@ asdfñlkajsdñlkfjasdf
 
 
 
-juan barillas
+julian barillas
 
 cuellar
 Eddy
+<<<<<<< HEAD
 Jose 
+=======
+pedro pica piedra 
+>>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
