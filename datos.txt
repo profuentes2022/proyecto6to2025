@@ -10,8 +10,12 @@ julian barillas
 
 cuellar
 Eddy
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Jose 
 =======
 pedro pica piedra 
 >>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
+=======
+edgar
+>>>>>>> Stashed changes
