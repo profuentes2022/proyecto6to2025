@@ -3,19 +3,46 @@ eadsfadsf
 
 asdfñlkajsdñlkfjasdf
 
+nico
 
-
-
-julian barillas
+julian Orlando barillas
 
 cuellar
+<<<<<<< HEAD
 Eddy
 <<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+juan pablo apen
+=======
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+cuellar
+
+apen 
+=======
+=======
+>>>>>>> 6dcd7f13d55d827fd9400160a006dc8bbfc12e21
 <<<<<<< HEAD
 Jose 
 =======
 pedro pica piedra 
 >>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
+<<<<<<< HEAD
 =======
 edgar
 >>>>>>> Stashed changes
+=======
+>>>>>>> 286b56b4985fef8e1bd15bc4e2cff0293076e222
+=======
+pedro navarro de leon
+=======
+Eddy
+>>>>>>> a392f357c3768eb1c86a69a5efd1289f3561a1c6
+>>>>>>> 3079538dc606656ee17db6e89579a178279ab3fe
+
+cuellaaaaaaaar 
+>>>>>>> 6dcd7f13d55d827fd9400160a006dc8bbfc12e21
