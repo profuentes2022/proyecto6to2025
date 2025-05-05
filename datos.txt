@@ -7,6 +7,7 @@ nico
 
 julian Orlando barillas
 
+<<<<<<< Updated upstream
 cuellar
 <<<<<<< HEAD
 Eddy
@@ -46,3 +47,6 @@ Eddy
 
 cuellaaaaaaaar 
 >>>>>>> 6dcd7f13d55d827fd9400160a006dc8bbfc12e21
+=======
+cuellar
+>>>>>>> Stashed changes
