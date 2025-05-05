@@ -3,11 +3,33 @@ eadsfadsf
 
 asdfñlkajsdñlkfjasdf
 
+nico
 
+julian Orlando barillas
 
+cuellar
+<<<<<<< HEAD
+juan pablo apen
+=======
+<<<<<<< HEAD
 
-juan barillas
+<<<<<<< HEAD
 
+<<<<<<< HEAD
 cuellar
 
 apen 
+=======
+=======
+<<<<<<< HEAD
+Jose 
+=======
+pedro pica piedra 
+>>>>>>> c170fa2fecef683708f6a617e4428fda7836315b
+>>>>>>> 286b56b4985fef8e1bd15bc4e2cff0293076e222
+=======
+pedro navarro de leon
+=======
+Eddy
+>>>>>>> a392f357c3768eb1c86a69a5efd1289f3561a1c6
+>>>>>>> 3079538dc606656ee17db6e89579a178279ab3fe
