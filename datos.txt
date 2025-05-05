@@ -10,6 +10,7 @@ julian Orlando barillas
 <<<<<<< Updated upstream
 cuellar
 <<<<<<< HEAD
+<<<<<<< HEAD
 Eddy
 <<<<<<< Updated upstream
 =======
@@ -50,3 +51,9 @@ cuellaaaaaaaar
 =======
 cuellar
 >>>>>>> Stashed changes
+=======
+<<<<<<< 
+=======
+Eddy
+pedro pedro pedro
+>>>>>>> 8c0eda656b8b33e66cf992a63b7cbf7a97597c7c
